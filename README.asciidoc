@@ -1,0 +1,26 @@
+The Cocktail Directory - README
+-------------------------------
+
+The Cocktail Directory offers the user the ability to, like a very good bartender with a
+long list of recepies at hand, find the perfect drink for the occation by searching based
+on a number of properties.
+
+
+Introduction
+-------------
+
+The idea of The Cocktail Directory came to me when I understood the power of
+graph databases, especially Neo4J, and was chalanged with finding the best
+cocktail for a specific occation with limited resources in the bar. Imagine 
+if I could create a tool that would allow me to at least be close to as good
+as the bartender at Milk & Honey in NYC who managed to pick out exactly what
+I wanted by just asking me for one spirit and two flavors. So that is the
+aim with this project.
+
+License
+~~~~~~~~
+
+Licensed under the GNU GPL. For more info see LICENSE.txt
+
+Copyright © 2013 Tomas Malmsten
+

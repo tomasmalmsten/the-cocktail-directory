@@ -1,0 +1,5 @@
+TODO
+----
+
+* Create some setting that makes asciidoc file not compile into the same folder as source code.
+

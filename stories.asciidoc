@@ -1,0 +1,49 @@
+The Cocktail Directory - User Stories
+-------------------------------------
+
+Format
+~~~~~~
+
+.Story Name
+[NOTE]
+====================
+Story description
+
+*Story Points:* 
+===================
+
+Stories
+~~~~~~~
+
+.User is able to create a new Ingredient
+[NOTE]
+====================================
+A user is able to enter the following data to create a new ingredient:
+
+  * Name of ingredient
+  * Manufacturer of ingredient if applicable
+  * Type of ingredient
+
+*Story points:* 
+==================================
+
+.User is able to create a Cocktail
+[NOTE]
+==================================
+A user is able to add a Cocktail to the database. A cocktial
+has the following properties:
+
+  * Ingredient list - a list of ingredients, with amounts - This inkludes any garnish needed
+  * Types - A category of drink, such as Classic, Modern, Festive, Apretif, Digestif and so on - Keywords
+  * Glass type - The kind of glass the drink is serverd in - Martini, old-fashioned and so on - Keywords
+  * Creator - The bartender who created the drink, if known
+  * History - A little someting about where this drink comes from if known
+  * Description - A review of tast and feelin of the drink
+  * Flavours - The smell and taste of the drink - Keywords
+  * Situation - Is the drink especially suited to a specific situation such as party, dinner, weding... - Keywords
+  * Dificulty level - Is it easy to make or very advanced - Keyword or grading
+  * Similar drinks - relationships to other drinks, probably a link with some kind of
+    flag to denote the type of relationship
+
+*Story points:* 
+==============================
