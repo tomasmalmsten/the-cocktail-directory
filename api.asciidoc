@@ -1,0 +1,32 @@
+REST API Specification
+======================
+
+This document contains the REST API specification until it can be auto-generated.
+
+Specification
+~~~~~~~~~~~~~~
+
+----
+GET   /ingredients
+        JSON list of all ingredients
+PUT   /ingredients
+        JSON rep of ingredient
+        creates a new ingredient
+        redirects to new ingredient...?
+GET   /ingredients/<ID>
+        json ingredient
+POST  /ingredients/<ID>
+        Update ingredient with json data
+GET   /ingredients/categories
+        List of categories
+GET   /ingredients/categories/<category>
+        List of ingredients in <category>
+----
+
+Thoughts
+~~~~~~~~
+
+ * Should the creation and update of an item redirect to the item?
+ * Need to povide each implemented traversable call from current path in response
+
+
